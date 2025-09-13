@@ -1,6 +1,6 @@
 # 👨‍💻🛠 Hi, I’m Mihir — Building ML infrastructure and wrangling models
 
-I’m an engineer with a strong foundation in **MLOps** and a growing focus on becoming an **Applied Scientist**. With 2+ years of industry experience, I’ve built **scalable data platforms** and **production-ready ML workflows**, specializing in designing end-to-end pipelines, optimizing cloud infrastructure, and deploying intelligent automation across distributed systems.  
+I’m an engineer, wrangling **ML models** and building **ML infrastructure** for a living. Professionally, I have experience in **MLOps** and a growing focus on becoming an **Applied Scientist**. With 2+ years of industry experience, I’ve built **scalable data platforms** and **production-ready ML workflows**, specializing in designing end-to-end pipelines, optimizing cloud infrastructure, and deploying intelligent automation across distributed systems.
 
 Currently, I’m pursuing my **MSc in Applied Computing** at the **University of Toronto**, where I’m expanding my expertise as an **Applied Researcher**.
 
