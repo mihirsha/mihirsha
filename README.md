@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Mihir Shah  
+# 👨‍💻🛠 Hi, I’m Mihir — Building ML infrastructure and wrangling models
 
 I’m an engineer with a strong foundation in **MLOps** and a growing focus on becoming an **Applied Scientist**. With 2+ years of industry experience, I’ve built **scalable data platforms** and **production-ready ML workflows**, specializing in designing end-to-end pipelines, optimizing cloud infrastructure, and deploying intelligent automation across distributed systems.  
 
