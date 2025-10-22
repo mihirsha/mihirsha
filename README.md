@@ -9,7 +9,7 @@ Previously, as a **Software Engineer II at Nielsen**, I worked on **MLOps initia
 
 ## 🏆 Experience  
 
-- 🎓 **MSc in Applied Computing** – Applied Scientist @ University of Toronto  
+- 🎓 **MSc in Applied Computing** – Applied Researcher @ University of Toronto  
 - 🛠️ **Software Engineer II @ Nielsen** – Scalable pipelines, CI/CD automation, and MLOps adoption, Distributed ML systems, cloud-native APIs, experiment tracking with MLflow.
 - 🤖 **Internships & Research Roles** – Experience across computer vision, deep learning, and large-scale data infrastructure  
 
