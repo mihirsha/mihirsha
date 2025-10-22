@@ -17,9 +17,9 @@ Previously, as a **Software Engineer II at Nielsen**, I worked on **MLOps initia
 
 ## 🛠️ Skills & Tech Stack  
 
-- **Applied Research** • **MLOps** • **Big Data** • **Cloud Platforms**  
-- CI/CD (GitHub Actions, Jenkins) • Docker • Kubernetes • AWS • Airflow • **MLflow**  
-- Python • Scala • Spark • FastAPI • Django • Spring Boot  
+- **Applied Research** • **MLOps** • **Big Data** • **Cloud Platforms** • **Machine Learning / Deep Learning (NLP)**
+- CI/CD (GitHub Actions, Jenkins) • Docker • Kubernetes • AWS • Airflow • **MLflow**
+- Python • PyTorch • Scala • Spark • FastAPI • Django • Spring Boot  
 - Distributed Systems • Computer Vision • ML Model Deployment & Monitoring  
 
 ---
